@@ -24,7 +24,8 @@
 /* footer */
 
 #footerContent {
-    background-color: var(--asparagus);
+    /* background-color: var(--asparagus); */
+    background-color: var(--olivine);
     color: var(--brunswick-green);
 }
 
