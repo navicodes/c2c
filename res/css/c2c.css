@@ -13,3 +13,14 @@
     --asparagus: #65943Dff;
 }
 
+/* footer */
+
+#footerContent {
+    background-color: var(--asparagus);
+    color: var(--brunswick-green);
+}
+
+#copyleft {
+    background-color: var(--brunswick-green);
+    color: var(--olivine);
+}
