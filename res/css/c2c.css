@@ -41,4 +41,5 @@
 
 .copyleft-link {
     color: var(--olivine);
+    text-decoration: none;
 }
