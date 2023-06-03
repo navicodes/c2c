@@ -21,6 +21,10 @@
     width: auto;
 }
 
+.nav-link {
+    color: var(--forest-green);
+}
+
 /* footer */
 
 #footerLogo {
