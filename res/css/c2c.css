@@ -13,6 +13,14 @@
     --asparagus: #65943Dff;
 }
 
+/* body */
+
+/* header */
+#topLogo {
+    height: 50px;
+    width: auto;
+}
+
 /* footer */
 
 #footerContent {
