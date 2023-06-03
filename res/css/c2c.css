@@ -34,6 +34,15 @@
     color: var(--brunswick-green);
 }
 
+.footer-link {
+    color: var(--brunswick-green);
+    text-decoration: none;
+}
+
+.footer-link :hover {
+    opacity: 50%;
+}
+
 #copyleft {
     background-color: var(--brunswick-green);
     color: var(--olivine);
