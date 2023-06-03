@@ -23,6 +23,11 @@
 
 /* footer */
 
+#footerLogo {
+    height: 80px;
+    width: auto;
+}
+
 #footerContent {
     /* background-color: var(--asparagus); */
     background-color: var(--olivine);
