@@ -38,3 +38,7 @@
     background-color: var(--brunswick-green);
     color: var(--olivine);
 }
+
+.copyleft-link {
+    color: var(--olivine);
+}
