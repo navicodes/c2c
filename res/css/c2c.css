@@ -72,3 +72,8 @@ body, html {
     border-bottom: var(--brunswick-green) solid 3px;
     color: var(--brunswick-green);
 }
+
+#contactForm {
+    border-top: var(--brunswick-green) solid 2px;
+    border-bottom: var(--brunswick-green) solid 3px;
+}
