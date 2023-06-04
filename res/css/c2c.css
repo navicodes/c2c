@@ -14,7 +14,7 @@
 }
 
 /* body */
-body {
+body, html {
     font-family: 'Poppins', sans-serif;
 }
 
