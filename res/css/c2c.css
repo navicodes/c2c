@@ -82,5 +82,9 @@ body, html {
 /* About page */
 
 .about-section-subtitle {
+    color: var(--forest-green);
+}
+
+.page-subtitle {
     color: var(--asparagus);
 }
