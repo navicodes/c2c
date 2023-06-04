@@ -69,11 +69,12 @@ body, html {
 #infoContact {
     background-color: #f8f9fa;
     fill-opacity: 15%;
+    border-top: var(--olivine) solid 3px;
     border-bottom: var(--brunswick-green) solid 3px;
     color: var(--brunswick-green);
 }
 
 #contactForm {
-    border-top: var(--brunswick-green) solid 2px;
+    border-top: var(--olivine) solid 3px;
     border-bottom: var(--brunswick-green) solid 3px;
 }
