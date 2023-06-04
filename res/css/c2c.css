@@ -28,6 +28,10 @@ body, html {
     color: var(--forest-green);
 }
 
+/* page title */
+.page-title {
+    color: var(--olivine);
+}
 /* footer */
 
 #footerLogo {
