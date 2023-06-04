@@ -78,3 +78,9 @@ body, html {
     border-top: var(--olivine) solid 3px;
     border-bottom: var(--brunswick-green) solid 3px;
 }
+
+/* About page */
+
+.about-section-subtitle {
+    color: var(--asparagus);
+}
