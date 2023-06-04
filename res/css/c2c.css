@@ -56,3 +56,9 @@
     color: var(--olivine);
     text-decoration: none;
 }
+
+/* Contact page */
+#contactLogo {
+    height: 150px;
+    justify-content: center;
+}
