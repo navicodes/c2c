@@ -74,13 +74,13 @@ body, html {
     background-color: #f8f9fa;
     fill-opacity: 15%;
     border-top: var(--olivine) solid 3px;
-    border-bottom: var(--brunswick-green) solid 3px;
+    border-bottom: var(--olivine) solid 3px;
     color: var(--brunswick-green);
 }
 
 #contactForm {
     border-top: var(--olivine) solid 3px;
-    border-bottom: var(--brunswick-green) solid 3px;
+    border-bottom: var(--olivine) solid 3px;
 }
 
 /* About page */
