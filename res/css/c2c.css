@@ -65,3 +65,10 @@ body, html {
     height: 150px;
     justify-content: center;
 }
+
+#infoContact {
+    background-color: #f8f9fa;
+    fill-opacity: 15%;
+    border-bottom: var(--brunswick-green) solid 3px;
+    color: var(--brunswick-green);
+}
