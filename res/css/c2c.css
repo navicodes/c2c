@@ -83,7 +83,6 @@ body, html {
     color: var(--asparagus);
 }
 
-
 .icon-square {
     background-color: var(--olivine);
     background-color: var(--light);
@@ -95,6 +94,9 @@ body, html {
     opacity: 100%;
 }
 
+.feats {
+    color: var(--asparagus);
+}
 
 /* Contact page */
 #contactLogo {
