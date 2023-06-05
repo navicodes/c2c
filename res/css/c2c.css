@@ -64,6 +64,11 @@ body, html {
     text-decoration: none;
 }
 
+/* home page */
+.home-icon {
+    color: var(--forest-green);
+}
+
 /* Contact page */
 #contactLogo {
     height: 150px;
