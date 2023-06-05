@@ -74,10 +74,15 @@ body, html {
     color: var(--olivine);
 }
 
+#prod {
+    color: var(--asparagus);
+}
+
 .jumbo-icon {
     align-content: center;
     color: var(--asparagus);
 }
+
 
 .icon-square {
     background-color: var(--olivine);
