@@ -11,6 +11,7 @@
     --olivine: #ABC296ff;
     --brunswick-green: #0C4C3Eff;
     --asparagus: #65943Dff;
+    --light: #f8f9fa;
 }
 
 /* body */
@@ -65,13 +66,19 @@ body, html {
 }
 
 /* home page */
+
+.jumbo-icon {
+    align-content: center;
+}
+
 .icon-square {
     background-color: var(--olivine);
+    background-color: var(--light);
     opacity: 100%;
 }
 
 .home-icon {
-    color: var(--forest-green);
+    color: var(--olivine);
     opacity: 100%;
 }
 
