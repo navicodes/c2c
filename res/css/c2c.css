@@ -126,3 +126,7 @@ body, html {
 .page-subtitle {
     color: var(--asparagus);
 }
+
+#abtGlance {
+    font-weight: 800;
+}
