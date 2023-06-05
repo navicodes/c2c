@@ -67,10 +67,12 @@ body, html {
 /* home page */
 .icon-square {
     background-color: var(--olivine);
+    opacity: 100%;
 }
 
 .home-icon {
     color: var(--forest-green);
+    opacity: 100%;
 }
 
 
