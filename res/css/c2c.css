@@ -65,9 +65,14 @@ body, html {
 }
 
 /* home page */
+.icon-square {
+    background-color: var(--olivine);
+}
+
 .home-icon {
     color: var(--forest-green);
 }
+
 
 /* Contact page */
 #contactLogo {
