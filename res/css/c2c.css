@@ -76,6 +76,7 @@ body, html {
 
 .jumbo-icon {
     align-content: center;
+    color: var(--asparagus);
 }
 
 .icon-square {
