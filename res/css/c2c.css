@@ -117,6 +117,10 @@ body, html {
     border-bottom: var(--olivine) solid 3px;
 }
 
+#contactBtn {
+    background-color: var(--olivine);
+    color: var(--brunswick-green);
+}
 /* About page */
 
 .about-section-subtitle {
