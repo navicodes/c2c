@@ -127,6 +127,6 @@ body, html {
     color: var(--asparagus);
 }
 
-#abtGlance, #abtValues {
+#abtGlance, #abtValues, #contactSub {
     font-weight: 800;
 }
