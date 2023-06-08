@@ -74,6 +74,11 @@ body, html {
     color: var(--olivine);
 }
 
+#jumboCarousel {
+    background-color: var(--brunswick-green);
+    background-blend-mode: multiply;
+}
+
 #prod {
     color: var(--asparagus);
 }
