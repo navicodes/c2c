@@ -1,7 +1,8 @@
 // GetButton.io widget 
     (function () {
         var options = {
-            whatsapp: "&#x2B;255 758 345 678", // WhatsApp number 
+            //whatsapp: "&#x2B;255 758 345 678", // WhatsApp number
+            whatsapp: "+255 758 345 678", // WhatsApp number
             call_to_action: "Message us", // Call to action
             position: "right", // Position may be 'right' or 'left'
         };
