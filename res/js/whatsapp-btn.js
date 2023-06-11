@@ -1,8 +1,7 @@
-// <!-- GetButton.io widget -->
-//<script type="text/javascript">
+// GetButton.io widget 
     (function () {
         var options = {
-            whatsapp: "&#x2B;255 657 205 562", // WhatsApp number 
+            whatsapp: "&#x2B;255 758 345 678", // WhatsApp number 
             call_to_action: "Message us", // Call to action
             position: "right", // Position may be 'right' or 'left'
         };
@@ -11,5 +10,5 @@
         s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
         var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
     })();
-//</script>
-// <!-- GetButton.io widget -->
+
+// GetButton.io widget
