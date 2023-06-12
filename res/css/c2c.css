@@ -67,6 +67,10 @@ body, html {
 
 /* home page */
 
+.jumbotron-carousel {
+    position: relative;
+}
+
 #jumbo {
     background-image: url('../images/imgs/tea-farm.webp');
     background-color: var(--brunswick-green);
