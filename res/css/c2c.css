@@ -82,7 +82,7 @@ body, html {
     z-index: 1;
 }
 
-.jumbo-content {
+.jumbo-content, .jumbo-new {
     z-index: 2;
     position: relative;
     color: var(--olivine);
