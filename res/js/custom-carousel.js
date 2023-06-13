@@ -6,16 +6,16 @@ var images = [
 
 var currentImage = 0;
 
-function changeImage() {
+function changeImageContinuously() {
     // Get the next image in the array.
     currentImage = (currentImage + 1) % images.length;
 
     // Set the background image of the element to the new image.
     document.getElementById('image').style.backgroundImage = 'url(' + images[currentImage] + ')';
+
+    // Set a timeout to call the function again after 2 seconds.
+    setTimeout(changeImageContinuously, 2000);
 }
 
-// Set up the event listener for the click event on the "Next" button.
-document.getElementById('next').addEventListener('click', changeImage);
-
-// Start the carousel by changing the background image to the first image in the array.
-changeImage();
+// Start the carousel by calling the function to change the background image continuously.
+changeImageContinuously();
