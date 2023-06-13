@@ -11,7 +11,8 @@ function changeImageContinuously() {
     currentImage = (currentImage + 1) % images.length;
 
     // Set the background image of the element to the new image.
-    document.getElementById('image').style.backgroundImage = 'url(' + images[currentImage] + ')';
+    //document.getElementById('image').style.backgroundImage = 'url(' + images[currentImage] + ')';
+    document.getElementById('jumboNew').style.backgroundImage = 'url(' + images[currentImage] + ')';
 
     // Set a timeout to call the function again after 2 seconds.
     setTimeout(changeImageContinuously, 2000);
