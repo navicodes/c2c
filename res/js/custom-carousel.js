@@ -15,7 +15,7 @@ function changeImageContinuously() {
     document.getElementById('jumboNew').style.backgroundImage = 'url(' + images[currentImage] + ')';
 
     // Set a timeout to call the function again after 2 seconds.
-    setTimeout(changeImageContinuously, 2000);
+    setTimeout(changeImageContinuously, 3000);
 }
 
 // Start the carousel by calling the function to change the background image continuously.
