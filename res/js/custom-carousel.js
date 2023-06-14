@@ -1,7 +1,7 @@
 var images = [
-    '/res/images/imgs/tea-farm.png',
-    '/res/images/imgs/beans.png',
-    '/res/images/imgs/sunflower.png'
+    './res/images/imgs/tea-farm.png',
+    './res/images/imgs/beans.png',
+    './res/images/imgs/sunflower.png'
 ];
 
 var currentImage = 0;
