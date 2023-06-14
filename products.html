@@ -120,7 +120,7 @@
                           </div>
                           <div class="col-md-4">
                             <img src="image3.jpg" class="img-thumbnail" alt="Image 3">
-                            <p class="d-none">This is the caption for image 3.</p>
+                            <p class="hover-text">This is the caption for image 3.</p>
                           </div>
                         </div>
                       </div>
@@ -205,6 +205,12 @@
     
     <!-- WhatsApp btn -->
     <script src="./res/js/whatsapp-btn.js"></script>
+    <script src="./res/js/products-imgs.js"></script>
+    <script>
+        $('.img-thumbnail').click(function() {
+          $(this).next('p').toggle();
+        });
+      </script>
 </body>
 
 </html>
