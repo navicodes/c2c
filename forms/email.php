@@ -1,7 +1,7 @@
 <?php
 
 // Check if the form has been submitted
-if (isset($_POST['submit'])) {
+if (isset($_POST['send'])) {
 
     // Get the form data
     $name = $_POST['name'];
