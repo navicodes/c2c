@@ -178,5 +178,10 @@ body, html {
 
 .img-thumbnail:hover {
     opacity: 0.7;
-    border: 1px solid black;
+    border: 1px solid var(--forest-green);
 }
+
+.hover-text {
+    display: none;
+}
+
