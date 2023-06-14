@@ -172,3 +172,11 @@ body, html {
 #abtGlance, #abtValues, #contactSub {
     font-weight: 800;
 }
+
+
+/* Products page */
+
+.img-thumbnail:hover {
+    opacity: 0.7;
+    border: 1px solid black;
+}
