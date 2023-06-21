@@ -29,7 +29,7 @@ body, html {
     color: var(--forest-green) !important;
 }
 
-.abt-btn-link {
+.abt-btn-link > a {
     color: var(--brunswick-green);
     text-decoration: none;
 }
