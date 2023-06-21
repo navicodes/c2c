@@ -116,7 +116,6 @@ body, html {
 }
 
 .icon-square {
-    background-color: var(--olivine);
     background-color: var(--light);
     opacity: 100%;
     border: var(--brunswick-green);
