@@ -29,6 +29,10 @@ body, html {
     color: var(--forest-green) !important;
 }
 
+.abt-btn-link {
+    text-decoration: none;
+}
+
 .ft-nav-link > a {
     text-decoration: none;
     color: var(--forest-green);
