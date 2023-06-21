@@ -38,6 +38,13 @@ body, html {
     color: var(--brunswick-green);
 }
 
+.footer-social-icon {
+    color: var(--forest-green);
+}
+
+.footer-social-icon :hover {
+    color: var(--forest-green);
+}
 
 
 /* page title */
