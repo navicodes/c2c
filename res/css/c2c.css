@@ -32,11 +32,14 @@ body, html {
 .abt-btn-link > a {
     color: var(--brunswick-green);
     text-decoration: none;
+
+    background-color: var(--olivine);
+    color: var(--brunswick-green);
 }
 
 .abt-btn-link :hover {
     color: var(--olivine);
-    text-decoration: none;
+    text-decoration: none
 }
 .ft-nav-link > a {
     text-decoration: none;
