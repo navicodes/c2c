@@ -46,7 +46,6 @@ body, html {
 .abt-btn-link :hover {
     color: var(--brunswick-green);
     opacity: 50%;
-    text-decoration: none
 }
 .ft-nav-link > a {
     text-decoration: none;
