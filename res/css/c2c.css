@@ -34,12 +34,18 @@ body, html {
     text-decoration: none;
 }
 
+#abtLink {
+    text-decoration: none;
+}
+
 #homeBtn {
     background-color: var(--olivine);
     color: var(--brunswick-green);
 }
+
 .abt-btn-link :hover {
-    color: var(--olivine);
+    color: var(--brunswick-green);
+    opacity: 50%;
     text-decoration: none
 }
 .ft-nav-link > a {
