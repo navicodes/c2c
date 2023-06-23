@@ -197,3 +197,17 @@ body, html {
     display: none;
 }
 
+
+
+/* home animation  */
+@keyframes slide {
+    0% {
+      background-image: url(../images/imgs/tea-farm.png);
+    }
+    50% {
+      background-image: url(../images/imgs/beans.png);
+    }
+    100% {
+      background-image: url(../images/imgs/sunflower.png);
+    }
+  }
