@@ -17,7 +17,7 @@ function changeImageContinuously() {
     // Create a transition effect.
     // backgroundImageElement.style.transition = "background-image 2s ease-in-out";
     //document.getElementById('jumboNew').style.transition = "2s ease-in-out";
-    document.getElementById('jumboNew').style.animation = "slide 3s ease-in-out infinite";
+    //document.getElementById('jumboNew').style.animation = "slide 3s ease-in-out infinite";
     
     // Set a timeout to call the function again after 2 seconds.
     setTimeout(changeImageContinuously, 3000);
